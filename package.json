@@ -15,6 +15,8 @@
   "dependencies": {
     "@babel/parser": "^7.14.7",
     "@babel/traverse": "^7.14.7",
-    "esprima": "^4.0.1"
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.2.0"
   }
 }
